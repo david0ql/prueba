@@ -1,0 +1,43 @@
+{
+    "N_PEGE_DOCUMENTOIDENTIDAD":"1005540394",
+    "N_PENG_PRIMERAPELLIDO":"SOLANO",
+    "N_PENG_SEGUNDOAPELLIDO":"DIAZ",
+    "N_PENG_PRIMERNOMBRE":"OLIVER",
+    "N_PENG_SEGUNDONOMBRE":"ANDRES",
+    "N_PROG_NOMBRE":"TECNOLOGIA EN DESARROLLO DE SISTEMAS INFORMATICOS",
+    "N_UNID_NOMBRE":"SEDE PRINCIPAL",
+    "N_GRUP_NOMBRE":"A251A",
+    "AUTOEVALUACION" : 30,
+    "PARCIAL" : 60,
+    "TAREAS" : 10,
+    "MATERIAS":[
+       {
+          "NOTA_FINAL" : 5.0,
+          "NOMBRE_MATERIA":"LABORATORIO DE FISICA",
+          "CODIGO_MATERIA":"DCB011",
+          "N_DOCENTE":"OSORIO VARGAS JORGE ENRIQUE",
+          "N_EVAC_ID":64,
+          "1":[
+             {
+                "AUTOEVALUACION": 4.2,
+                "PARCIAL": 4.3,
+                "TAREAS": 5.0
+             }
+          ],
+          "2":[
+             {
+                "AUTOEVALUACION": 4.2,
+                "PARCIAL": 4.3,
+                "TAREAS": 5.0
+             }
+          ],
+          "3":[
+            {
+                "AUTOEVALUACION": 4.2,
+                "PARCIAL": 4.3,
+                "TAREAS": 5.0
+             }
+          ]
+       }
+    ]
+ }
